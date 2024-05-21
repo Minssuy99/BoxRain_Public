@@ -10,9 +10,19 @@
 ## 🖥️ 프로젝트 소개
 Unity2D를 이용하여 만든 상자를 피하면서 생존하는 2D 게임입니다.
 
-![image](https://github.com/Minssuy99/BoxRain_Public/assets/101568505/2a7175e0-f875-4582-b752-11429e9b3dbf)
+![image](https://github.com/Minssuy99/BoxRain_Public/assets/101568505/90d999c0-fc18-4eaf-a18f-091afd016401)
 
-<br>
+
+</br>
+
+## 🎮 조작키
+<details>
+<summary>[펼치기] 이 게임은 키보드로 플레이 합니다.</summary>
+ 
+![조작키](https://github.com/Minssuy99/BoxRain_Public/assets/101568505/fad0d2a1-4e71-4f23-b9a3-0803d89445d2)
+
+</details>
+
 
 ## 🕐 개발 기간
 * 24.05.16 ~ 24.05.22
