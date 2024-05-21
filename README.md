@@ -40,11 +40,11 @@ Unity2D를 이용하여 만든 상자를 피하면서 생존하는 2D 게임입�
 
 📑 <a href="https://github.com/Minssuy99/BoxRain_Public/blob/main/Assets/Scripts/Behaviors/BigBox.cs" target="_blank">BigBox.cs</a>
   
-📑 <a href="URL_주소_또는_파일_경로" target="_blank">Rain.cs</a>
+📑 <a href="https://github.com/Minssuy99/BoxRain_Public/blob/main/Assets/Scripts/Behaviors/Rain.cs" target="_blank">Rain.cs</a>
 
-📑 <a href="URL_주소_또는_파일_경로" target="_blank">ShotBox.cs</a>
+📑 <a href="https://github.com/Minssuy99/BoxRain_Public/blob/main/Assets/Scripts/Behaviors/ShotBox.cs" target="_blank">ShotBox.cs</a>
 
-📑 <a href="URL_주소_또는_파일_경로" target="_blank">TopDownMovement.cs</a>
+📑 <a href="https://github.com/Minssuy99/BoxRain_Public/blob/main/Assets/Scripts/Behaviors/TopDownMovement.cs" target="_blank">TopDownMovement.cs</a>
 
  
 </details>
@@ -57,15 +57,15 @@ Unity2D를 이용하여 만든 상자를 피하면서 생존하는 2D 게임입�
 
 </br>
 
-📑 <a href="" target="_blank">CAnimationHandler.cs</a>
+📑 <a href="https://github.com/Minssuy99/BoxRain_Public/blob/main/Assets/Scripts/Controllers/CAnimationHandler.cs" target="_blank">CAnimationHandler.cs</a>
   
-📑 <a href="URL_주소_또는_파일_경로" target="_blank">GameManager.cs</a>
+📑 <a href="https://github.com/Minssuy99/BoxRain_Public/blob/main/Assets/Scripts/Controllers/GameManager.cs" target="_blank">GameManager.cs</a>
 
-📑 <a href="URL_주소_또는_파일_경로" target="_blank">PlayerInputController.cs</a>
+📑 <a href="https://github.com/Minssuy99/BoxRain_Public/blob/main/Assets/Scripts/Controllers/PlayerInputController.cs" target="_blank">PlayerInputController.cs</a>
 
-📑 <a href="URL_주소_또는_파일_경로" target="_blank">SoundManager.cs</a>
+📑 <a href="https://github.com/Minssuy99/BoxRain_Public/blob/main/Assets/Scripts/Controllers/SoundManager.cs" target="_blank">SoundManager.cs</a>
 
-📑 <a href="URL_주소_또는_파일_경로" target="_blank">TopDownController.cs</a>
+📑 <a href="https://github.com/Minssuy99/BoxRain_Public/blob/main/Assets/Scripts/Controllers/TopDownController.cs" target="_blank">TopDownController.cs</a>
 
  
 </details>
@@ -78,9 +78,9 @@ Unity2D를 이용하여 만든 상자를 피하면서 생존하는 2D 게임입�
 
 </br>
 
-📑 <a href="URL_주소_또는_파일_경로" target="_blank">SaveData.cs</a>
+📑 <a href="https://github.com/Minssuy99/BoxRain_Public/blob/main/Assets/Scripts/SaveData/SaveData.cs" target="_blank">SaveData.cs</a>
   
-📑 <a href="URL_주소_또는_파일_경로" target="_blank">SaveSystem.cs</a>
+📑 <a href="https://github.com/Minssuy99/BoxRain_Public/blob/main/Assets/Scripts/SaveData/SaveSystem.cs" target="_blank">SaveSystem.cs</a>
 
 
  
@@ -94,14 +94,13 @@ Unity2D를 이용하여 만든 상자를 피하면서 생존하는 2D 게임입�
 
 </br>
 
-📑 <a href="URL_주소_또는_파일_경로" target="_blank">PauseMenu.cs</a>
+📑 <a href="https://github.com/Minssuy99/BoxRain_Public/blob/main/Assets/Scripts/UI/PauseMenu.cs" target="_blank">PauseMenu.cs</a>
   
-📑 <a href="URL_주소_또는_파일_경로" target="_blank">PlayersScore.cs</a>
+📑 <a href="https://github.com/Minssuy99/BoxRain_Public/blob/main/Assets/Scripts/UI/PlayersScore.cs" target="_blank">PlayersScore.cs</a>
 
-📑 <a href="URL_주소_또는_파일_경로" target="_blank">StartButton.cs</a>
+📑 <a href="https://github.com/Minssuy99/BoxRain_Public/blob/main/Assets/Scripts/UI/StartButton.cs" target="_blank">StartButton.cs</a>
 
 
- 
 </details>
 </br>
 
