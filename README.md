@@ -38,7 +38,7 @@ Unity2D를 이용하여 만든 상자를 피하면서 생존하는 2D 게임입�
 
 </br>
 
-📑 <a href="URL_주소_또는_파일_경로" target="_blank">BigBox.cs</a>
+📑 <a href="https://github.com/Minssuy99/BoxRain_Public/blob/main/Assets/Scripts/Behaviors/BigBox.cs" target="_blank">BigBox.cs</a>
   
 📑 <a href="URL_주소_또는_파일_경로" target="_blank">Rain.cs</a>
 
@@ -57,7 +57,7 @@ Unity2D를 이용하여 만든 상자를 피하면서 생존하는 2D 게임입�
 
 </br>
 
-📑 <a href="https://github.com/Minssuy99/BoxRain_Public/blob/main/Assets/Scripts/Behaviors/BigBox.cs" target="_blank">CAnimationHandler.cs</a>
+📑 <a href="" target="_blank">CAnimationHandler.cs</a>
   
 📑 <a href="URL_주소_또는_파일_경로" target="_blank">GameManager.cs</a>
 
