@@ -41,7 +41,7 @@ Unity2D를 이용하여 만든 상자를 피하면서 생존하는 2D 게임입�
 
 
 ## 📝 Files
-### 🗂 Assets
+### 🗂 BoxRain_Public
 
 <details>
 <summary> 📁 Animation</summary>
